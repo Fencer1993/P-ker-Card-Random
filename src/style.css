@@ -2,6 +2,7 @@
 
 body {
   background-color: green;
+  font-family: 'Merriweather', serif;
 }
 
 .button {
@@ -9,14 +10,23 @@ body {
   justify-content: center;
   text-align: center;
   margin: 0 auto;
+  
+}
+
+#generator {
+  font-size: x-large;
+  
+
+
+
 }
 .square {
   border: 1px black solid;
   margin: 0 auto;
-  margin-top: 10%;
-  margin-bottom: 30%;
+  margin-top: 5%;
+  margin-bottom: 0%;
   width: 25%;
-  height: 60%;
+  height: 50%;
   border-radius: 8%;
   background-color: white;
 }
